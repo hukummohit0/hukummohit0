@@ -2,7 +2,7 @@
 - 👀 I’m interested in physics and life
 - 🌱 I’m currently learning about life 
 - 💞️ I’m looking to collaborate on nothing rn
-- 📫 How to reach me twitter
+- 📫 Reach me on twitter(@hukummohit0).
 
 <!---
 hukummohit0/hukummohit0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
